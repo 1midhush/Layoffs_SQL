@@ -91,6 +91,10 @@ The cleaned and analyzed data is visualized using Tableau. The following sheets 
    - Visualization of layoffs categorized by city.
    - Total layoffs in different cities are displayed.
 
+## Dashboard
+
+![Dashboard Image](images/dashboard.png)
+
 ## Conclusion
 
 This project showcases the power of SQL in data cleaning and analysis, complemented by Tableau's visualization capabilities. The insights derived from this project can help understand the impact of economic slowdowns on the tech industry and identify trends and patterns in layoffs.
