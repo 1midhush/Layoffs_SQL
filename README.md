@@ -71,6 +71,16 @@ The data analysis process is captured in the `Layoff_Data_Analysis.sql` script. 
 
 3. **Time-Series Analysis**:
    - Rolling totals of layoffs per month are calculated to visualize trends over time.
+  
+**Python Decision Tree for Layoffs Prediction**
+
+   - Implemented a decision tree model using the Gini index to predict the percentage of employees laid off based on company data.
+   - Trained the model on cleaned data and provided predictions for new input data.
+
+   [Python Decision Tree Code](gini_predictor.py)
+**Predictive Modeling**
+  - Built a decision tree model to predict the percentage of employees laid off based on company attributes.
+  - Achieved accurate predictions using the Gini index to measure node impurity and optimize splits.
 
 ## Tableau Visualizations
 
@@ -94,6 +104,22 @@ The cleaned and analyzed data is visualized using Tableau. The following sheets 
 ## Dashboard
 
 ![Dashboard Image](images/dashboard.png)
+
+## Usage
+
+### Requirements
+
+- Python 3.x
+- SQL Database (MySQL, PostgreSQL, etc.)
+- Tableau Desktop or Tableau Public
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/1midhush/Layoffs_SQL.git
+   cd Layoffs_SQL
 
 ## Conclusion
 
