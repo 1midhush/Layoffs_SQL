@@ -86,6 +86,11 @@ The data analysis process is captured in the `Layoff_Data_Analysis.sql` script. 
 
 The cleaned and analyzed data is visualized using Tableau. The following sheets and dashboard provide a comprehensive view of the layoff trends:
 
+## Dashboard
+
+[![Dashboard Image](images/dashboard.png)](https://public.tableau.com/shared/R4H4QCZQS?:display_count=n&:origin=viz_share_link)
+
+
 1. **[Sheet 8: Layoff by Industry](https://public.tableau.com/views/layoff_industry_wise/Sheet8?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**:
    - Visualization of layoffs categorized by industry.
    - Total layoffs across various industries are displayed.
@@ -100,10 +105,6 @@ The cleaned and analyzed data is visualized using Tableau. The following sheets 
 4. **[Sheet 5: Layoff by City](https://public.tableau.com/views/layoff_city_wise/Sheet5?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)**:
    - Visualization of layoffs categorized by city.
    - Total layoffs in different cities are displayed.
-
-## Dashboard
-
-[![Dashboard Image](images/dashboard.png)](https://public.tableau.com/shared/R4H4QCZQS?:display_count=n&:origin=viz_share_link)
 
 
 ## Usage
