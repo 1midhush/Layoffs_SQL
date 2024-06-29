@@ -103,7 +103,8 @@ The cleaned and analyzed data is visualized using Tableau. The following sheets 
 
 ## Dashboard
 
-![Dashboard Image](images/dashboard.png)
+[![Dashboard Image](images/dashboard.png)](https://public.tableau.com/shared/R4H4QCZQS?:display_count=n&:origin=viz_share_link)
+
 
 ## Usage
 
